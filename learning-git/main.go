@@ -1,8 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"learning-git/calculate"
+)
 
 func main() {
-	result := Calc(1, 2)
+	result := calculate.Calc(1, 2, 3)
 	fmt.Println(result)
 }
