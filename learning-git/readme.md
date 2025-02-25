@@ -1,0 +1,1 @@
+## Bu bir yazılım mühendisliği dersi için git öğrenme ve pratik yapma reposudur.
