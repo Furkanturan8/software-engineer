@@ -2,4 +2,5 @@
 
 1- Normal authentication ile giriş yapılacak.
 2- Google ile giriş eklenebilir.
-3- Admin tarafından onaylanmayan kullanıcılar giriş yapamasın!
+3- Kayıtlı olmayan kullanıcılar kayıt olduktan sonra admin tarafından onaylansın.
+4- Admin tarafından onaylanmayan kullanıcılar giriş yapamasın!
