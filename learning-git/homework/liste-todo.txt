@@ -1,0 +1,6 @@
+## APP ÖZELLİK LİSTESİ
+
+1- Normal authentication ile giriş yapılacak.
+2- Google ile giriş eklenebilir.
+3- Rol tabanlı yetki olsun
+4- Kayıtlı olmayan kullanıcılar kayıt olduktan sonra admin tarafından onaylansın.
